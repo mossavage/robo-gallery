@@ -158,11 +158,11 @@ msgstr ""
 
 #: options/rbs_gallery_options_hover.php:18
 msgid "Hover Options"
-msgstr ""
+msgstr "Опции при наведении курсором"
 
 #: options/rbs_gallery_options_hover.php:26
 msgid "Hover Mode"
-msgstr ""
+msgstr "активация при наведении курсором"
 
 #: options/rbs_gallery_options_hover.php:33 rbs_gallery_media.php:74
 msgid "Off"
@@ -205,7 +205,7 @@ msgstr "Сдвиг вниз 100%"
 
 #: options/rbs_gallery_options_hover.php:73 rbs_gallery_media.php:99
 msgid "reveal-top"
-msgstr ""
+msgstr "Отступ сверху"
 
 #: options/rbs_gallery_options_hover.php:74 rbs_gallery_media.php:100
 msgid "reveal-bottom"
@@ -287,7 +287,7 @@ msgstr "Шаблон Описания"
 
 #: options/rbs_gallery_options_images.php:18
 msgid "Images Manager"
-msgstr ""
+msgstr "Менеджер изображениями"
 
 #: options/rbs_gallery_options_images.php:27
 #: options/rbs_gallery_options_images.php:29
@@ -300,6 +300,8 @@ msgid ""
 "edit or delete images from gallery. Also here you can edit settings of every "
 "particular image, define alt, links, description text"
 msgstr ""
+"Кликните на Управление Картинками для открытия Менеджера Изображений, где вы сможете загрузить,редактировать или удалить изображения"
+" из галереи. Также, там вы можете изменить настройки каждого изображения, включая описание и прочие SEO"
 
 #: options/rbs_gallery_options_info.php:18
 #: options/rbs_gallery_options_info.php:31
@@ -307,7 +309,7 @@ msgstr ""
 #: rbs_gallery_about.php:64 rbs_gallery_list.php:29
 #: rbs_gallery_topblock.php:20
 msgid "Get Pro version"
-msgstr "Получить  PRO версию"
+msgstr "Получить PRO версию"
 
 #: options/rbs_gallery_options_info.php:29
 #: options/rbs_gallery_options_infowide.php:28 rbs_gallery_topblock.php:21
@@ -333,11 +335,11 @@ msgstr "Цвет текста"
 #: options/rbs_gallery_options_loading.php:18
 #: options/rbs_gallery_options_loading.php:35
 msgid "Loading Options"
-msgstr ""
+msgstr "Настройки загрузки"
 
 #: options/rbs_gallery_options_loading.php:26
 msgid "Lazy Load"
-msgstr ""
+msgstr ""Ленивая" загрузка"
 
 #: options/rbs_gallery_options_loading.php:36
 msgid "Loading Text"
@@ -345,11 +347,11 @@ msgstr ""
 
 #: options/rbs_gallery_options_loading.php:44
 msgid "Images Amount"
-msgstr ""
+msgstr "Размер изображений"
 
 #: options/rbs_gallery_options_loading.php:53
 msgid "Load More Amount"
-msgstr ""
+msgstr "Загрузка больших изображений"
 
 #: options/rbs_gallery_options_loading.php:63
 msgid "Wait Thumbs Load"
@@ -357,7 +359,7 @@ msgstr "Ожидать загрузки миниатюр"
 
 #: options/rbs_gallery_options_loading.php:71
 msgid "Wait No Matter What"
-msgstr ""
+msgstr "Подождите..."
 
 #: options/rbs_gallery_options_loading.php:91
 msgid "Loading Label"
@@ -377,7 +379,7 @@ msgstr "Параметры стиля Polaroid"
 
 #: options/rbs_gallery_options_polaroid.php:26
 msgid "Polaroid Style"
-msgstr "Стиль Поларойд"
+msgstr "Стиль Полароид"
 
 #: options/rbs_gallery_options_polaroid.php:40
 msgid "Source"
@@ -409,15 +411,15 @@ msgstr "по центру"
 
 #: options/rbs_gallery_options_shortcode.php:18
 msgid "Gallery Shortcode"
-msgstr ""
+msgstr "Shortcode Галереи"
 
 #: options/rbs_gallery_options_shortcode.php:29
 msgid "use this shortcode to insert this gallery into page, post or widget"
-msgstr ""
+msgstr "используйте этот shortcode, чтобы вставить галерею на страницу, пост или виджет"
 
 #: options/rbs_gallery_options_size.php:18
 msgid "Gallery Size Options"
-msgstr ""
+msgstr "Настройки размеров Галереи"
 
 #: options/rbs_gallery_options_size.php:30
 #: options/rbs_gallery_options_size.php:39
@@ -430,7 +432,7 @@ msgstr "Настройки размера"
 
 #: options/rbs_gallery_options_size.php:47
 msgid "Custom Ratio"
-msgstr ""
+msgstr "Пользовательские растояния"
 
 #: options/rbs_gallery_options_size.php:58
 msgid "Colums "
@@ -438,7 +440,7 @@ msgstr "Колонки"
 
 #: options/rbs_gallery_options_view.php:18
 msgid "Thumbs View Options"
-msgstr ""
+msgstr "Опции вида изображений в колонках"
 
 #: options/rbs_gallery_options_view.php:28
 msgid "Radius"
@@ -464,11 +466,11 @@ msgstr "Настройки тени"
 
 #: options/rbs_gallery_options_view.php:82
 msgid "Hover Shadow Options"
-msgstr ""
+msgstr "Опции - Тень от указателя мыши"
 
 #: options/rbs_gallery_options_view.php:92
 msgid "Hover Shadow"
-msgstr ""
+msgstr "Тень от указателя мыши"
 
 #: options/rbs_gallery_options_view.php:137
 #: options/rbs_gallery_options_view.php:144
@@ -486,23 +488,23 @@ msgstr ""
 
 #: rbs_gallery_about.php:22
 msgid "Robo Gallery implemented by RoboSoft Team"
-msgstr ""
+msgstr "Robo Gallery изготовлена RoboSoft Team"
 
 #: rbs_gallery_about.php:25
 msgid "More details about Robo Gallery you can see on our website"
-msgstr ""
+msgstr "Больше деталей о Robo Gallery вы можете увидеть на нашем сайте"
 
 #: rbs_gallery_about.php:31
 msgid "Robo Gallery Pro Features"
-msgstr ""
+msgstr "Возможности Pro версии Robo Gallery"
 
 #: rbs_gallery_about.php:34
 msgid "Unlimited amount of the galleries"
-msgstr ""
+msgstr "Неограниченное количество галерей"
 
 #: rbs_gallery_about.php:35
 msgid "Unlimited amount of images in galleries"
-msgstr ""
+msgstr "Неограниченное количество изображений в галереях"
 
 #: rbs_gallery_about.php:38
 msgid "Custom hover style for border"
@@ -514,11 +516,11 @@ msgstr ""
 
 #: rbs_gallery_about.php:42
 msgid "Unlimited multi-categories"
-msgstr ""
+msgstr "Неограниченно подкатегорий"
 
 #: rbs_gallery_about.php:43
 msgid "High quality thumbnails"
-msgstr ""
+msgstr "Превью (миниатюры) высокого качества"
 
 #: rbs_gallery_about.php:46
 msgid "Gallery widget"
@@ -602,7 +604,7 @@ msgstr "Редактировать галерею "
 
 #: rbs_gallery_list.php:27
 msgid "Get Robo Gallery Pro version"
-msgstr ""
+msgstr "Купить Pro версию Robo Gallery"
 
 #: rbs_gallery_list.php:31
 msgid ""
@@ -677,7 +679,7 @@ msgstr "Сохранить изменения"
 
 #: rbs_gallery_widget.php:19
 msgid "Robo Gallery Widget"
-msgstr ""
+msgstr "Виджет Robo Gallery"
 
 #: rbs_gallery_widget.php:20
 msgid "Publish gallery on your website."
@@ -693,7 +695,7 @@ msgstr "Новая галерея"
 
 #: rbs_gallery_widget.php:76
 msgid "Gallery:"
-msgstr ""
+msgstr "Галерея:"
 
 #~ msgid "Shadow options"
 #~ msgstr "Shadow options"
@@ -708,7 +710,7 @@ msgstr ""
 #~ msgstr "Title:"
 
 #~ msgid "Get PRO Version"
-#~ msgstr "Get PRO Version"
+#~ msgstr "Купить PRO версию"
 
 #~ msgid "Get PRO version"
-#~ msgstr "Get PRO version"
+#~ msgstr "Купить PRO версию"
