@@ -49,7 +49,7 @@ msgstr "Обычный"
 
 #: options/rbs_gallery_options_button.php:68
 msgid "flat"
-msgstr "flat"
+msgstr "ровный"
 
 #: options/rbs_gallery_options_button.php:69
 msgid "3d"
@@ -94,7 +94,7 @@ msgstr "Закругление"
 
 #: options/rbs_gallery_options_button.php:100
 msgid "Rounded"
-msgstr ""
+msgstr "Закругленный"
 
 #: options/rbs_gallery_options_button.php:101
 msgid "Pill"
@@ -146,6 +146,9 @@ msgid ""
 "able to edit some of the options. Gallery will copy all settings from "
 "selected source."
 msgstr ""
+"При выборе здесь, чтобы наследовать настройки из другой галереи у вас не будет "
+"возможности редактировать некоторые из вариантов. Галерея скопирует все настройки из "
+выбранного источника."
 
 #: options/rbs_gallery_options_copy.php:29
 msgid ""
